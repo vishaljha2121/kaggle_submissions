@@ -10,6 +10,7 @@ The evaluation for the submission file for this competition is done using **ROOT
 
 ## Requirements
 
+ - python
  - pandas
  - matplotlib
  - numpy
